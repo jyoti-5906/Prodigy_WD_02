@@ -1,5 +1,6 @@
 # Prodigy_WD_02
-<img src="Task2img.jpeg" alt="Task 2 Image" style="width: 100%; border-radius: 10px;" />
+<img src="Task2img.png" alt="Task Preview" style="width: 100%; border-radius: 10px;" />
+
 
 
 
