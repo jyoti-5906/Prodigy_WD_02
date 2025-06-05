@@ -1,5 +1,5 @@
 # Prodigy_WD_02
-<img src="https://raw.githubusercontent.com/jyoti-5906/Prodigy_WD_02/main/Task2img.jpg" alt="Landing page Banner" style="width: 100%; border-radius: 10px;" />
+<img src="Task2img.jpeg" alt="Task 2 Image" style="width: 100%; border-radius: 10px;" />
 
 
 
