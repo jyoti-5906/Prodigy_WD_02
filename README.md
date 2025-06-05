@@ -1,5 +1,5 @@
 # Prodigy_WD_02
-<img src="Task2img.png" alt="Task Preview" style="width: 100%; border-radius: 10px;" />
+<img src="Screenshot 2025-06-06 000810.png" alt="Task Preview" style="width: 100%; border-radius: 10px;" />
 
 
 
