@@ -18,6 +18,9 @@ and every success that made me smile 😊🌟
 🌱 Constantly learning. Always growing. Forever grateful 🙏🌈
 
 # ⏱️ Stopwatch with Highlighted Seconds
+
+<img align="right" alt="coding" width=300 boder-radius=10 src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAd/coding.gif">
+
 A sleek and responsive digital stopwatch built with HTML, CSS, and Vanilla JavaScript. This stopwatch features:
 
 🔘 Start, Pause, Stop, Lap, and Reset functionalities
